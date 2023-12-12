@@ -41,3 +41,21 @@
     transform: rotate(360deg);
   }
 }
+.max-w-500 {
+  max-width: 500px;
+}
+.max-w-1600 {
+  max-width: 1600px;
+}
+.w-100 {
+  width: 100%;
+}
+.m-160-auto {
+  margin: 160px auto;
+}
+.fs-36 {
+  font-size: 36px;
+}
+.fw-600 {
+  font-weight: 600;
+}
